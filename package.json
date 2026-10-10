@@ -1,0 +1,14 @@
+
+{
+  "name": "telegram-razorpay-server",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "razorpay": "^2.9.6"
+  }
+}
